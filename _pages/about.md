@@ -186,14 +186,16 @@ Authors: Jiangfei Duan, **Runyu Lu**, Haojie Duanmu, Xiuhong Li, Xingcheng Zhang
 * Mentor: [nihui](https://github.com/nihui)(*with Github **6k** followers*), and she's cute :)
 
 <h2 class="col">
-<font color=blue>Hobbies</font>
+<font color=blue>Honors & Competition Awards</font>
 </h2>
 
-* Football, crazy fan of Lionel Messi, [FC Barcelona](https://www.fcbarcelona.com/en/), and Argentina National Team.
-* F1, crazy fan of Charles Leclerc(racing in Formula One for Scuderia Ferrari), Guanyu Zhou(a Chinese racing driver who currently competed in Formula One for Stake F1 Team Kick Sauber).
-  * fun fact: I have some photos [photo1](https://lry89757.github.io/images\with-guanyu-1.jpg) [photo2](https://lry89757.github.io/images\with-guanyu-2.jpg) with Guanyu :)
-* ~~a little dance, like jazz/hiphop~~
-
+* National scholarship (twice)
+* The ChinaInternational College Students’ Innovation Competition (Golden Prize:Top 0.01%)
+* The 10th "Datang Cup" National College Student Competition (1st Prize:Top 1%)
+* The China Collegiate Algorithm Design & Programming Challenge Contest (1st Prize:Top 5%)
+* The China Mathematics Competitions (2nd Prize:Top 17%)
+* The China Undergraduate Mathematical Contest in Modelling (2nd Prize: Top 17%)
+* The Outstanding Undergraduates in Term of Academic Performance
 
 <!-- 
 A data-driven personal website
