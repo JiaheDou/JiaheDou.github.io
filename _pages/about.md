@@ -23,7 +23,7 @@ redirect_from:
 <!-- * My primary research area is Machine Learning System. In the past I mainly worked on High Performance Computing, in the future I want to dive into the Network and Cloud Computing Part. -->
 * Cooperative Perception
   
-* I am very fortunate to be advised by [Wei Wang](https://eic.hust.edu.cn/professor/wangwei/index.html)(HUST) in my undergrad Research.
+* I am very fortunate to be advised by [Wei Wang](https://eic.hust.edu.cn/professor/wangwei/index.html) and [Haifan Yin](http://haifanyin.cn/)( HUST ) in my undergrad Research.
 
 
 > For any questions, collaborations, or just to connect, don't hesitate to reach out via email(`jhdouhust@163.com`)!
