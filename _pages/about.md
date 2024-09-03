@@ -132,45 +132,6 @@ redirect_from:
 * Remap the PageTable of OS Kernel to accelerate the dynamic graph processing system.
 * Speed up existing SOTA algorithms by more than 10x times. -->
 
-<h2 class="col">
-<font color=blue>Industrial Experiences</font>
-</h2>
-
-<!-- 0 -->
-<div class="section-text col-right">
-<h3><a href="#" style="text-decoration: none;"><span class="emph">Develop ColossalAI Inference Engine for LLM</span></a></h3>
-</div>
-
-<div><a href="https://hpc-ai.com/" style="text-decoration: none;">@HPCAI-Tech Company</a>
-<font size ="2"> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Beijing, China; March 2024 - July 2024</font>
-</div>
-
-* Project: [ColossalAI](https://github.com/hpcaitech/ColossalAI), an open source project with **37k+** stars in Github
-* Mentor: [Yuanheng Zhao](https://github.com/yuanheng-zhao), [Shenggui Li](https://franklee.xyz/) and [Hongxin Liu](https://github.com/ver217)
-
-<!-- 1 -->
-<div class="section-text col-right">
-<h3><a href="#" style="text-decoration: none;"><span class="emph">Optimize the LLVM Backend of SenseTime GPU, GPU Compiler</span></a></h3>
-</div>
-
-<div><a href="https://www.sensetime.com/en" style="text-decoration: none;">@Sensetime Company</a>
-<font size ="2"> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Shanghai, China; April 2023 - Augu 2023</font>
-</div>
-
-* Project: LLVM, the internal version of SenseTime
-* Mentor: Wenqiang Yin
-
-<div class="section-text col-right">
-<h3><a href="#" style="text-decoration: none;"><span class="emph">Develop High</span> Performance Neural Network Inference Engine</a></h3>
-</div>
-
-<!-- 2 -->
-<div><a href="https://www.tencent.com/en-us/" style="text-decoration: none;">@Tencent Company</a>
-<font size ="2"> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&nbsp;&emsp; &emsp;&emsp;&nbsp;&emsp; &emsp;&emsp;ShenZhen, China; June 2022 - Nov. 2022 </font>
-</div>
-
-* Project: [ncnn](https://github.com/Tencent/ncnn), an open source project with **18k+** stars in Github
-* Mentor: [nihui](https://github.com/nihui)(*with Github **6k** followers*), and she's cute :)
 
 <h2 class="col">
 <font color=blue>Honors & Competition Awards</font>
