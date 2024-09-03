@@ -21,11 +21,11 @@ redirect_from:
 
 * 21 years old now. fourth-year Undergraduate@HUST
 <!-- * My primary research area is Machine Learning System. In the past I mainly worked on High Performance Computing, in the future I want to dive into the Network and Cloud Computing Part. -->
-* Machine Learning System, mainly on Serving System currently.
-* I am very fortunate to be advised by [Hao Zhang](https://cseweb.ucsd.edu/~haozhang/)(UCSD), [Lingming Zhang](http://lingming.cs.illinois.edu/index.html)(UIUC) and [Zhiyuan Shao](https://github.com/MrShawCode)(HUST) in my undergrad Research.
-* I was involved in the development of [ColossalAI](https://github.com/hpcaitech/ColossalAI)@HPCAI-Tech(37k+star), LLVM@SenseTime(not open source), [NCNN](https://github.com/Tencent/ncnn)@Tencent(18k+star).
+* Cooperative Perception
+* I am very fortunate to be advised by [Wei Wang](https://eic.hust.edu.cn/professor/wangwei/index.html)(HUST) in my undergrad Research.
 
-> For any questions, collaborations, or just to connect, don't hesitate to reach out via email(`lry89757@gmail.com`)!
+
+> For any questions, collaborations, or just to connect, don't hesitate to reach out via email(`jhdouhust@163.com`)!
 
 <!-- <h2 class="col"> -->
 <!-- <font color=blue>Skills</font> -->
@@ -41,8 +41,8 @@ redirect_from:
 </h2>
 ---
 
-* B.S. in WuHan, [Huazhong University of Science and Technology](http://english.hust.edu.cn/), the elite program in the Department of Computer Science, with GPA 3.95, 2020.9-2024.6
-* PhD in Ann Arbor, University of Michigan, Department of Computer Science & Engineering, Advisors: [Ang Chen](https://web.eecs.umich.edu/~chenang/) & [Mosharaf Chowdhury](https://www.mosharaf.com/), 2024.8-
+* B.S. in WuHan, [Huazhong University of Science and Technology](http://english.hust.edu.cn/), the elite program in the Department of Electronic Information and Communications, with GPA 4.62, 2021.9-2025.6
+
 
 <!-- * Looking for chances of Summer research experience in US or Singpore -->
 <!-- * B.S. in GitHub, GitHub University, 2012 -->
