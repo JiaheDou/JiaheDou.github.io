@@ -16,14 +16,10 @@ redirect_from:
 </h2>
 <!-- --- -->
 
-<!-- * 21 years old, fourth-year Undergraduate@[HUST](http://english.hust.edu.cn/) -> PhD@UMich(Ang Chen&Mosharaf Chowdhury) -->
-<!-- * the elite program in the Department of Computer Science & Technology, with **GPA 3.95, rank 4th** -->
-<!-- * Intern@[UIUC](http://lingming.cs.illinois.edu/index.html), about llvm fuzzing, with the guidance of Chenyuan Yang@UIUC, Lingming Zhang@UIUC -->
-<!-- * Intern@[UCSD](https://people.eecs.berkeley.edu/~hao/), about LLM Serving, under the guidance of Jiangfei Duan@CUHK, Hao Zhang@UCSD -->
-<!-- * I have optimized the LLVM Backend for [SenseTime](https://www.sensetime.com/)(GPU Compiler Optimization), written many high-performance neural networks operators for [Tencent](https://github.com/Tencent/ncnn) company(Inference Engine), I also have made some contributions to open source projects of [Microsoft](https://github.com/microsoft/AI-System), [Meituan](https://github.com/meituan/YOLOv6), and [Megvii](https://github.com/MegEngine/MegCC).  -->
-<!-- * In addition, as the person in charge, I once led a team to complete an industry project of the deployment of object detection and pose estimation models on arm chips, which perfectly meet the high FPS demands.  -->
+<!-- * 21 years old, fourth-year Undergraduate@[HUST](http://english.hust.edu.cn/)  -->
+<!-- * the elite program in the Department of Electronic Information & Communications, with **GPA 4.62/5, rank 2th** -->
 
-* 20 years old now. PhD Student@UMich([Ang Chen](https://web.eecs.umich.edu/~chenang/)&[Mosharaf Chowdhury](https://www.mosharaf.com/))
+* 21 years old now. fourth-year Undergraduate@HUST
 <!-- * My primary research area is Machine Learning System. In the past I mainly worked on High Performance Computing, in the future I want to dive into the Network and Cloud Computing Part. -->
 * Machine Learning System, mainly on Serving System currently.
 * I am very fortunate to be advised by [Hao Zhang](https://cseweb.ucsd.edu/~haozhang/)(UCSD), [Lingming Zhang](http://lingming.cs.illinois.edu/index.html)(UIUC) and [Zhiyuan Shao](https://github.com/MrShawCode)(HUST) in my undergrad Research.
