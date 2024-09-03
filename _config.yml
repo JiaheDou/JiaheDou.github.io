@@ -84,17 +84,17 @@ analytics:
 # Site Author
 author:
   # name             : "Your Sidebar Name"
-  name             : "Runyu Lu"
+  name             : "Jiahe Dou"
   avatar           : "lry.jpg"
   # bio              : "Your biography for the left-hand sidebar"
-  bio              : "逯润雨 in Chinese"
-  location         : "Ann Arbor"
+  bio              : "窦家赫 in Chinese"
+  location         : "Wuhan,China"
   # employer         : "Sensetime"
   # employer         : "University of Michigan"
   # employer         : "Ann Arbor"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=t4gdsHsAAAAJ"
-  email            : "lry89757@gmail.com"
+  googlescholar    :
+  email            : "jhdouhust@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -104,14 +104,14 @@ author:
   facebook         :
   foursquare       :
   # github           : "https://github.com/LRY89757"
-  github           : "LRY89757"
-  wechat           : Runyu_Lu
+  github           : 
+  wechat           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : lu-runyu-4074a622b
+  linkedin         : 
   # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
