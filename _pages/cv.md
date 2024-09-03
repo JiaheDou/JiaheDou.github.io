@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-> You're welcome to download my cv [here](https://lry89757.github.io/files/CV_RunyuLu.pdf).
+> You're welcome to download my cv [here](https://jiahedou.github.io/files/CV_JiaheDou.pdf).
