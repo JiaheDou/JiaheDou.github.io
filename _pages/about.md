@@ -17,11 +17,12 @@ redirect_from:
 <!-- --- -->
 
 <!-- * 21 years old, fourth-year Undergraduate@[HUST](http://english.hust.edu.cn/)  -->
-<!-- * the elite program in the Department of Electronic Information & Communications, with **GPA 4.62/5, rank 2th** -->
+<!-- *  in the Department of Electronic Information & Communications, with **GPA 4.62/5, rank 2th** -->
 
 * 21 years old now. fourth-year Undergraduate@HUST
 <!-- * My primary research area is Machine Learning System. In the past I mainly worked on High Performance Computing, in the future I want to dive into the Network and Cloud Computing Part. -->
 * Cooperative Perception
+  
 * I am very fortunate to be advised by [Wei Wang](https://eic.hust.edu.cn/professor/wangwei/index.html)(HUST) in my undergrad Research.
 
 
@@ -39,9 +40,9 @@ redirect_from:
 <h2 class="col">
 <font color=blue>Education</font>
 </h2>
----
 
-* B.S. in WuHan, [Huazhong University of Science and Technology](http://english.hust.edu.cn/), the elite program in the Department of Electronic Information and Communications, with GPA 4.62, 2021.9-2025.6
+
+* B.S. in WuHan, [Huazhong University of Science and Technology](http://english.hust.edu.cn/),  the Department of Electronic Information and Communications, with GPA 4.62, 2021.9-2025.6
 
 
 
